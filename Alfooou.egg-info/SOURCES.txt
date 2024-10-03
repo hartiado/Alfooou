@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+Alfooou/Alfooou.py
+Alfooou/__init__.py
+Alfooou.egg-info/PKG-INFO
+Alfooou.egg-info/SOURCES.txt
+Alfooou.egg-info/dependency_links.txt
+Alfooou.egg-info/requires.txt
+Alfooou.egg-info/top_level.txt
